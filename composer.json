@@ -1,5 +1,5 @@
 {
-  "name": "sgk/barcode-bundle",
+  "name": "markas/barcode-bundle",
   "type": "symfony-bundle",
   "description": "Symfony2 Barcode Generator Bundle with Twig function extension",
   "keywords": [
@@ -20,8 +20,7 @@
     },
     {
       "name": "SHANG Guokan",
-      "email": "shangguokan@hotmail.com",
-      "homepage": "https://github.com/shangguokan"
+      "email": "shangguokan@hotmail.com"
     }
   ],
   "require": {
